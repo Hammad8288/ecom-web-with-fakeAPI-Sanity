@@ -42,7 +42,7 @@ const Sidebar = () => {
         </div>
       </SheetTrigger>
 
-      <SheetContent className="w-[400px] sm:w-[540px] flex flex-col">
+      <SheetContent className="w-[350px] sm:w-[540px] flex flex-col">
         <SheetHeader>
           <SheetTitle>Your Cart</SheetTitle>
         </SheetHeader>
