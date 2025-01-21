@@ -41,8 +41,8 @@ const Checkout = () => {
                   className="flex items-center justify-between border-b pb-4"
                 >
                   <Image
-                    width={100}
-                    height={100}
+                    width={200}
+                    height={200}
                     src={item.imageURL}
                     alt={item.name}
                     className="w-16 h-16 object-cover rounded"
